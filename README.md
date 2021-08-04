@@ -1,6 +1,8 @@
 # Simple-Backtest-Environment
 Simple backtesting environment in Python.
 
+NOTE: the archive in /data/financials/ needs to be unzipped before any use of the program.
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
